@@ -34,7 +34,7 @@ for row in ws.rows:
             paragraph = document.add_paragraph(" ")
             paragraph = document.add_paragraph(" ")
 
-        paragraph = document.add_paragraph(u"广东省微生物研究所实验材料领用单")
+        paragraph = document.add_paragraph(u"XXX微生物研究所实验材料领用单")
         paragraph_format = paragraph.paragraph_format
         paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
 
