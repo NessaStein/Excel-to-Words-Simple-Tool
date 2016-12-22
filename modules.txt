@@ -1,0 +1,4 @@
+pip install openpyxl
+pip install python-dateutil
+pip install lxml==3.6.0
+pip install python-docx (optinal VCForPython27.msi)
