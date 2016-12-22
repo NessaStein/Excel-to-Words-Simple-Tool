@@ -6,9 +6,9 @@ A simple program using python to process Excel file and generate new Words docum
 2. Use [python-docx](http://python-docx.readthedocs.io/en/latest/index.html) to write docx
 
 ## screenshots:
-<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/xlsx_pic.png" width="320x">
-<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/claim_pic.png" width="320x">
-<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/import_pic.png" width="320x">
+<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/xlsx_pic.png" >
+<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/claim_pic.png" >
+<img src="https://github.com/freewheel70/Excel-to-Words-Simple-Tool/blob/master/import_pic.png" >
 
 <br/>
 
